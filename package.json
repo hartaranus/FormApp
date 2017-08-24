@@ -1,0 +1,25 @@
+{
+  "name": "formapp",
+  "version": "1.0.0",
+  "description": "Simple Form Usage on Electron",
+  "main": "main.js",
+  "scripts": {
+    "tes": "echo \"Error : no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "FormApp"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "willy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.7.5"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
